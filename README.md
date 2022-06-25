@@ -1,5 +1,7 @@
 ![alt text](https://github.com/achmadmahathirps/achmadmahathirps/blob/main/banner.png?raw=true)
-### Hi there 👋
+#
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=achmadmahathirps&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **achmadmahathirps/achmadmahathirps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
