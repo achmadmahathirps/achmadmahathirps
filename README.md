@@ -1,3 +1,4 @@
+![alt text](https://github.com/achmadmahathirps/achmadmahathirps/blob/main/banner.png?raw=true)
 ### Hi there 👋
 
 <!--
