@@ -17,11 +17,11 @@ And also other stuffs that are worth learning!
 <br>
 
 <a href="https://github.com/achmadmahathirps">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achmadmahathirps&theme=tokyonight&layout=compact" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=achmadmahathirps&show_icons=true&theme=tokyonight" alt="Mahathir's GitHub Stats" />
 </a>
 
 <a href="https://github.com/achmadmahathirps">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=achmadmahathirps&show_icons=true&theme=tokyonight" alt="Mahathir's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achmadmahathirps&theme=tokyonight&layout=compact" />
 </a>
 
 <br>
