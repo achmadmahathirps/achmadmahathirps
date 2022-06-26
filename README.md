@@ -4,7 +4,7 @@
 ## 👨‍💻 About Me
 
 <a href="https://github.com/achmadmahathirps">
-  <img align="right" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achmadmahathirps&theme=tokyonight" />
+  <img align="right" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achmadmahathirps&theme=light" />
 </a>
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/achmadmahathirp)
@@ -24,7 +24,7 @@ And also other stuffs that are worth learning!
   <summary><b>🛠️&nbsp;&nbsp;Tools</b></summary>
   <br/>
   
-  [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,unity,idea,androidstudio,git,linux&theme=dark)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,unity,idea,androidstudio,git,linux&theme=light)](https://skillicons.dev)
 </details>
 <!--
 **achmadmahathirps/achmadmahathirps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
