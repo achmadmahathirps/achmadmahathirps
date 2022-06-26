@@ -13,7 +13,7 @@
 Hello there! 🙋‍♂️
 
 I'm Mahathir, someone who is interested in programming and still learning about it. I'm a final-year undergraduate student pursuing in Computer Science/Informatics Technology and currently interested mainly in 3 fields (still figuring out which field I like the most), which is:
-1. Cross-platform Front-end development (Flutter)
+1. Cross-platform front-end development (Flutter)
 3. Computer vision development (Mediapipe)
 4. Unity stuffs
 
