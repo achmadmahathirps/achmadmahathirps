@@ -23,13 +23,8 @@ And also other stuffs that are worth learning!
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Tools</b></summary>
   <br/>
-  <ul>
-    <li>Visual Studio Code</li>
-    <li>Pycharm</li>
-    <li>Jupyter</li>
-    <li>Unity</li>
-    <li>Visual Studio Community</li>
-  </ul>
+  
+  [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,unity,idea,androidstudio,git,linux&theme=dark)](https://skillicons.dev)
 </details>
 <!--
 **achmadmahathirps/achmadmahathirps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
