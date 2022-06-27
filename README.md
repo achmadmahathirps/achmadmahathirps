@@ -44,7 +44,6 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
-<br>
 <!--
 **achmadmahathirps/achmadmahathirps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
