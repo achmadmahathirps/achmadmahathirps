@@ -24,7 +24,8 @@ And also other stuffs that are worth learning!
   <summary><b>🛠️&nbsp;&nbsp;Tools</b></summary>
   <br/>
   
-  [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,unity,idea,androidstudio,git,linux&theme=light)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,unity,androidstudio,git,linux&theme=light)](https://skillicons.dev)
+  
 </details>
 
 <details>
