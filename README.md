@@ -39,7 +39,6 @@ And also other stuffs that are worth learning!
 ## 📊 Stats
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
  
 ##
