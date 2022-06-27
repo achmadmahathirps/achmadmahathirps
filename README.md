@@ -4,7 +4,7 @@
 ## 👨‍💻 About Me
 
 <a href="https://github.com/achmadmahathirps">
-  <img align="right" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achmadmahathirps" />
+  <img align="right" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achmadmahathirps&hide=c%2B%2B,CMake" />
 </a>
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/achmadmahathirp)
@@ -18,7 +18,8 @@ I'm Mahathir, someone who is interested in programming and still learning about 
 4. Unity stuffs
 
 And also other stuffs that are worth learning!
-
+ 
+##
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Tools</b></summary>
   <br/>
@@ -33,8 +34,6 @@ And also other stuffs that are worth learning!
   
   [![My Skills](https://skillicons.dev/icons?i=c,cs,py,dart,flutter&theme=light)](https://skillicons.dev)
 </details>
- 
-##
  
 ## 📊 Stats
 
