@@ -40,7 +40,9 @@ And also other stuffs that are worth learning!
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Python   3 hrs 28 mins   ████████████████████████▓   98.46 %
+Dart     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+C#       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
