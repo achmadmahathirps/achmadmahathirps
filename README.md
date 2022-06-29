@@ -40,8 +40,8 @@ And also other stuffs that are worth learning!
 <!--START_SECTION:waka-->
 
 ```text
-Python   3 hrs 28 mins   ████████████████████████▓   98.46 %
-Dart     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+Python   5 hrs 37 mins   ████████████████████████▓   99.04 %
+Dart     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
 C#       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
