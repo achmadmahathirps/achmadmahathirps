@@ -40,8 +40,6 @@ And also other stuffs that are worth learning!
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 June 2022 - To: 29 June 2022
-
 Total Time: 5 hrs 40 mins
 
 Python   5 hrs 37 mins   ████████████████████████▓   99.04 %
