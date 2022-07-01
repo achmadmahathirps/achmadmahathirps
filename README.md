@@ -40,10 +40,10 @@ And also other stuffs that are worth learning!
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 5 hrs 40 mins
+Total Time: 5 hrs 42 mins
 
-Python   5 hrs 37 mins   ████████████████████████▓   99.04 %
-Dart     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+Python   5 hrs 39 mins   ████████████████████████▓   99.05 %
+Dart     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
 C#       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
