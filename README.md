@@ -2,9 +2,13 @@
 ![alt text](https://github.com/achmadmahathirps/achmadmahathirps/blob/main/banner.png?raw=true)
 
 ## 👨‍💻 About Me
+https://github-readme-stats.vercel.app/api/wakatime?username=willianrod
+<a href="https://github.com/achmadmahathirps">
+  <img align="right" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=achmadmahathirps&count_private=true&show_icons=true&hide=contribs" />
+</a>
 
 <a href="https://github.com/achmadmahathirps">
-  <img align="right" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achmadmahathirps&hide=c%2B%2B,CMake" />
+  <img align="right" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod" />
 </a>
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/achmadmahathirp)
