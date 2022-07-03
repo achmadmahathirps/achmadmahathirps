@@ -36,7 +36,7 @@ And also other stuffs that are worth learning!
   <summary><b>⚙&nbsp;&nbsp;Languages&nbsp;and&nbsp;frameworks</b></summary>
   <br>
   
-  [![My Skills](https://skillicons.dev/icons?i=c,cs,py,dart,flutter&theme=light)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=cs,javascript,py,dart,flutter&theme=light)](https://skillicons.dev)
 </details>
  
 ## 📊 Stats
