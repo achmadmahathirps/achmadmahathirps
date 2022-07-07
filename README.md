@@ -45,10 +45,10 @@ And also other stuffs that are worth learning!
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 55 mins
+Total Time: 1 hr 15 mins
 
-Python   55 mins         █████████████████████████   99.91 %
-reg      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Python   1 hr 15 mins    █████████████████████████   99.93 %
+reg      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
