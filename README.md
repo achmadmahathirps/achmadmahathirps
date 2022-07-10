@@ -26,10 +26,6 @@ I'm Mahathir, someone who is interested in programming and still learning about 
 
 And also other stuffs that are worth learning!
  
- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p>
- 
 ##
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Tools</b></summary>
@@ -45,6 +41,10 @@ And also other stuffs that are worth learning!
   
   [![My Skills](https://skillicons.dev/icons?i=cs,javascript,py,dart,flutter&theme=light)](https://skillicons.dev)
 </details>
+ 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
  
 ## 📊 Stats
 
