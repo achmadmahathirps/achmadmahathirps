@@ -48,10 +48,6 @@ And also other stuffs that are worth learning!
  
 ## 📊 Stats
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header"/>
-</p>
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2023%20mins-blue)
 
@@ -103,10 +99,6 @@ Windows                  3 hrs 51 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 
  Last Updated on 10/07/2022 09:31:02 UTC
 <!--END_SECTION:waka-->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p>
 
 <!--
 **achmadmahathirps/achmadmahathirps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
