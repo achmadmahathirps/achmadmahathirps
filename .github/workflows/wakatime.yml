@@ -1,11 +1,10 @@
 name: Waka Readme
 
 on:
-  workflow_dispatch:
   schedule:
     # Runs at every 12AM UTC
     - cron: "00 00 * * *"
-
+  workflow_dispatch:
 jobs:
   update-readme:
     name: Update this repo's README
