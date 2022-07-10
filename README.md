@@ -53,6 +53,11 @@ reg      0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 <!--END_SECTION:waka-->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
+
 <!--
 **achmadmahathirps/achmadmahathirps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
