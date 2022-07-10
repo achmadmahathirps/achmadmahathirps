@@ -1,7 +1,13 @@
 
+
+
 ![alt text](https://github.com/achmadmahathirps/achmadmahathirps/blob/main/banner.png?raw=true)
 
 ## 👨‍💻 About Me
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header"/>
+</p>
 
 <a href="https://github.com/achmadmahathirps">
   <img align="right" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achmadmahathirps&hide=CMake,c%2B%2B,c,swift,kotlin,objective-c" />
@@ -19,6 +25,10 @@ I'm Mahathir, someone who is interested in programming and still learning about 
 4. Unity stuffs
 
 And also other stuffs that are worth learning!
+ 
+ <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
  
 ##
 <details>
@@ -89,10 +99,6 @@ Windows                  3 hrs 51 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 
  Last Updated on 10/07/2022 09:31:02 UTC
 <!--END_SECTION:waka-->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p>
 
 <!--
 **achmadmahathirps/achmadmahathirps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
