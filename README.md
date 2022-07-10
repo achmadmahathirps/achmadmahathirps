@@ -4,12 +4,8 @@
 ## 👨‍💻 About Me
 
 <a href="https://github.com/achmadmahathirps">
-  <img align="right" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=achmadmahathirps&count_private=true&show_icons=true&hide=contribs" />
+  <img align="right" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 </a>
-
-<a href="https://github.com/achmadmahathirps">
-  <img align="right" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/wakatime?username=achmadmahathirps" />
-</a
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/achmadmahathirp)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/achmadmahathirps/)
