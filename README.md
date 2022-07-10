@@ -45,6 +45,8 @@ And also other stuffs that are worth learning!
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
+
+##
  
 ## 📊 Stats
 
