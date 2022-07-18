@@ -49,9 +49,9 @@ And also other stuffs that are worth learning!
 ## 📊 Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2023%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-198-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-199-blue)
 
 **I'm an Early 🐤** 
 
@@ -93,7 +93,7 @@ Windows                  57 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 ```
 
 
- Last Updated on 18/07/2022 12:43:37 UTC
+ Last Updated on 18/07/2022 16:33:11 UTC
 <!--END_SECTION:waka-->
 
 <!--
