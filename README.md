@@ -51,7 +51,7 @@ And also other stuffs that are worth learning!
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2039%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-180-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-65-blue)
 
 **I'm an Early 🐤** 
 
@@ -99,7 +99,7 @@ Linux                    27 mins             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 
- Last Updated on 24/07/2022 04:37:47 UTC
+ Last Updated on 24/07/2022 08:26:07 UTC
 <!--END_SECTION:waka-->
 
 <!--
