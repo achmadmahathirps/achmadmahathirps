@@ -49,7 +49,7 @@ And also other stuffs that are worth learning!
 ## 📊 Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-36%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-36%20hrs%2041%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-42-blue)
 
@@ -94,7 +94,7 @@ Windows                  3 hrs 48 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 ```
 
 
- Last Updated on 17/11/2022 12:44:17 UTC
+ Last Updated on 17/11/2022 16:30:27 UTC
 <!--END_SECTION:waka-->
 
 <!--
