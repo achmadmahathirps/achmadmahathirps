@@ -49,7 +49,7 @@ And also other stuffs that are worth learning!
 ## 📊 Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-39%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -93,7 +93,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 02/12/2022 16:26:40 UTC
+ Last Updated on 02/12/2022 20:19:51 UTC
 <!--END_SECTION:waka-->
 
 <!--
