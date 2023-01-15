@@ -49,7 +49,7 @@ And also other stuffs that are worth learning!
 ## 📊 Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-91%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-92%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -96,7 +96,7 @@ Linux                    8 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 
- Last Updated on 15/01/2023 08:22:10 UTC
+ Last Updated on 15/01/2023 12:32:00 UTC
 <!--END_SECTION:waka-->
 
 <!--
