@@ -51,7 +51,7 @@ And also other stuffs that are worth learning!
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-146%20hrs%2057%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **I'm an Early 🐤** 
 
@@ -90,7 +90,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 08/03/2023 01:41:46 UTC
+ Last Updated on 08/03/2023 04:22:25 UTC
 <!--END_SECTION:waka-->
 
 <!--
