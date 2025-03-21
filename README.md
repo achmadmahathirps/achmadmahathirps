@@ -3,7 +3,7 @@
 
 ![alt text](https://github.com/achmadmahathirps/achmadmahathirps/blob/main/banner.png?raw=true)
 
-## 👨‍💻 About Me
+## 👨‍💻 Overview
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header"/>
