@@ -38,7 +38,7 @@ Hello there! 🙋‍♂️
 ## 📊 Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-150%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-150%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -84,7 +84,7 @@ Windows                  48 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 ```
 
 
- Last Updated on 22/04/2025 20:25:02 UTC
+ Last Updated on 23/04/2025 01:48:31 UTC
 <!--END_SECTION:waka-->
 
 <!--
