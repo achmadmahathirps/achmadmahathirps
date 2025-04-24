@@ -10,7 +10,7 @@
 </p>
 
 <a href="https://github.com/achmadmahathirps">
-  <img align="right" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achmadmahathirps&hide=HTML,CMake,c%2B%2B,c,swift,kotlin,objective-c" />
+  <img align="right" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achmadmahathirps&hide=HTML,CSS,CMake,c%2B%2B,c,swift,kotlin,objective-c" />
 </a>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/achmadmahathirps/)
