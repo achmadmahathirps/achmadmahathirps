@@ -13,7 +13,7 @@
   <img align="right" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achmadmahathirps&hide=HTML,CSS,CMake,c%2B%2B,c,swift,kotlin,objective-c" />
 </a>
 
-Hello there! 🙋‍♂️ I'm Mahathir, and I have a passion for coding, especially when it involves entertainment-related projects. My specialty lies in creating multimedia applications and educational-themed games. There are several technologies that I'm familiar of such as Unity (also with Vuforia Engine for AR development) and Flutter, usually for UI development. So far I code mostly using C# and Dart, while also have some experiences in coding projects with Python (computer vision and machine learning) and Javascript (simple web development).
+Hello there! 🙋‍♂️ I'm Mahathir, and I have a passion for coding, especially when it involves entertainment-related projects. My specialty lies in creating multimedia applications and educational-themed games. There are several technologies that I'm familiar of such as Unity (also with Vuforia Engine for AR development) and Flutter, usually for UI development. So far I code mostly using C# and Dart, while also have some experiences in coding projects using Python (computer vision and machine learning) and Javascript (basic web development).
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/achmadmahathirps/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/achmadmahathirps/)
