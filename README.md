@@ -13,7 +13,7 @@
   <img align="right" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achmadmahathirps&hide=HTML,CSS,CMake,c%2B%2B,c,swift,kotlin,objective-c" />
 </a>
 
-<b>Hello there! 🙋‍♂️ I'm Mahathir, and I have a passion for coding, especially when it involves entertainment-related projects. My specialty lies in creating multimedia applications and educational-themed games.</b> 
+<b>Hello there! 🙋‍♂️ I'm Mahathir, an multimedia application developer. I pretty much have a passion for coding, especially when it involves entertainment-related projects. My specialty lies in creating multimedia applications and educational-themed games.</b> 
 
 There are several technologies that I'm familiar of such as Unity (also with Vuforia Engine for AR development) and Flutter, usually for UI development. So far I code mostly using C# and Dart, while also have some experiences in coding projects using Python (computer vision and machine learning), Javascript (basic web development) and a little of other things.
 
