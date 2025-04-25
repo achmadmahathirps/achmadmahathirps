@@ -16,7 +16,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/achmadmahathirps/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/achmadmahathirps/)
 
-Hello there! 🙋‍♂️
+Hello there! 🙋‍♂️ My name is Mahathir and I like coding stuffs that are related to entertainment. I have specialty in making multimedia apps (mostly in Augmented Reality) and educational-themed games.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
