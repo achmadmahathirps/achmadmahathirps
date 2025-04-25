@@ -25,7 +25,7 @@ There are several technologies that I'm familiar of such as Unity (also with Vuf
 </p>
  
 ##
-<details>
+<details open>
   <summary><b>🛠️&nbsp;&nbsp;Some Tools I Use</b></summary>
   <br/>
   
@@ -33,7 +33,7 @@ There are several technologies that I'm familiar of such as Unity (also with Vuf
   
 </details>
 
-<details>
+<details open>
   <summary><b>⚙&nbsp;&nbsp;Languages&nbsp;and&nbsp;frameworks</b></summary>
   <br>
   
