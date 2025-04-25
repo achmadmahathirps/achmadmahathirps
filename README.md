@@ -29,7 +29,7 @@ There are several technologies that I'm using for creating the applications, suc
   <summary><b>🛠️&nbsp;&nbsp;Some Tools I Use</b></summary>
   <br/>
   
-  [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,unity,androidstudio,blender,git,windows,linux&theme=light)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,unity,androidstudio,blender,git&theme=light)](https://skillicons.dev)
   
 </details>
 
