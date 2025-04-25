@@ -37,7 +37,7 @@ There are several technologies that I'm familiar of such as Unity (also with Vuf
   <summary><b>⚙&nbsp;&nbsp;Languages&nbsp;and&nbsp;frameworks</b></summary>
   <br>
   
-  [![My Skills](https://skillicons.dev/icons?i=cs,javascript,py,dart,flutter&theme=light)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=cs,javascript,py,dart,flutter,postgresql&theme=light)](https://skillicons.dev)
 </details>
  
 ## 📊 Stats
