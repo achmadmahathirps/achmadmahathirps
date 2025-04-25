@@ -37,10 +37,9 @@ There are several technologies that I'm using for creating the applications, suc
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,unity,androidstudio,blender,git,pycharm,windows,mint&theme=light&perline=7)](https://skillicons.dev)
 
 <b>⚙&nbsp;&nbsp;Languages&nbsp;and&nbsp;frameworks</b>
+<br>
   
 [![My Skills](https://skillicons.dev/icons?i=cs,javascript,py,dart,flutter,postgresql,vue&theme=light)](https://skillicons.dev)
-
-<br>
  
 ## 📊 Stats
 
