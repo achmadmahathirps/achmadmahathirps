@@ -26,10 +26,10 @@ There are several technologies that I'm familiar of such as Unity (also with Vuf
  
 ##
 <details>
-  <summary><b>🛠️&nbsp;&nbsp;Tools</b></summary>
+  <summary><b>🛠️&nbsp;&nbsp;Some Tools I Use</b></summary>
   <br/>
   
-  [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,unity,androidstudio,git,linux&theme=light)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,unity,androidstudio,git,windows,linux&theme=light)](https://skillicons.dev)
   
 </details>
 
