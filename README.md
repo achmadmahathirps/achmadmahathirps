@@ -31,7 +31,7 @@ There are several technologies that I'm using for creating the applications, suc
 </a>
 
 
-<b>🛠️&nbsp;&nbsp;Some Tools I Use</b
+<b>🛠️&nbsp;&nbsp;Some Tools I Use</b>
 <br/>
   
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,unity,androidstudio,blender,git&theme=light)](https://skillicons.dev)
