@@ -31,16 +31,16 @@ There are several technologies that I'm using for creating the applications, suc
 </a>
 
 
-  <summary><b>🛠️&nbsp;&nbsp;Some Tools I Use</b></summary>
-  <br/>
+<summary><b>🛠️&nbsp;&nbsp;Some Tools I Use</b></summary>
+<br/>
   
-  [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,unity,androidstudio,blender,git&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,unity,androidstudio,blender,git&theme=light)](https://skillicons.dev)
 
 
-  <summary><b>⚙&nbsp;&nbsp;Languages&nbsp;and&nbsp;frameworks</b></summary>
-  <br>
+<summary><b>⚙&nbsp;&nbsp;Languages&nbsp;and&nbsp;frameworks</b></summary>
+<br>
   
-  [![My Skills](https://skillicons.dev/icons?i=cs,javascript,py,dart,flutter,postgresql,vue&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,javascript,py,dart,flutter,postgresql,vue&theme=light)](https://skillicons.dev)
 
  
 ## 📊 Stats
