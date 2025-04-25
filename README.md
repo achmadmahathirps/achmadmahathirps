@@ -9,9 +9,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header"/>
 </p>
 
-<a href="https://github.com/achmadmahathirps">
+<!-- <a href="https://github.com/achmadmahathirps">
   <img align="right" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achmadmahathirps&hide=HTML,CSS,CMake,c%2B%2B,c,swift,kotlin,objective-c" />
-</a>
+</a> -->
 
 <b>I'm Mahathir. I pretty much have a passion for coding, especially when it involves entertainment-related projects. My specialty lies in creating multimedia applications and educational-themed games. And also some UI/UX development.</b> 
 
