@@ -44,7 +44,7 @@ There are several technologies that I'm using for creating the applications, suc
 ## 📊 Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-170%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-170%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -91,7 +91,7 @@ Jupyter Notebook         1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 20/05/2025 20:26:25 UTC
+ Last Updated on 21/05/2025 01:53:35 UTC
 <!--END_SECTION:waka-->
 
 <!--
