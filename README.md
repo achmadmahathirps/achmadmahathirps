@@ -44,6 +44,8 @@ There are several technologies that I'm using for creating the applications, suc
 ## 📊 Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-189%20hrs%207%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I'm an Early 🐤** 
@@ -84,7 +86,7 @@ HTML                     1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 01/07/2025 20:26:35 UTC
+ Last Updated on 02/07/2025 01:57:16 UTC
 <!--END_SECTION:waka-->
 
 <!--
