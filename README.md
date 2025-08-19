@@ -15,7 +15,7 @@
 
 <b>I'm Mahathir. I pretty much have a passion for coding, especially when it involves entertainment-related projects. My specialty lies in creating multimedia applications and educational-themed games. And also some UI/UX development.</b> 
 
-There are several technologies that I'm using for creating the applications, such as Unity (also with Vuforia Engine for AR development) and Flutter, usually for UI/UX development. So far I code mostly using C# and Dart, while also have some experiences in coding projects using Python (computer vision and machine learning), Javascript (basic web development) and a little of other things. As technologies progressed, I'm open and interested to learn new things :) Currently expanding my skills on React Native to support mobile development demands.
+There are several technologies that I'm using for creating the applications, such as Unity (also with Vuforia Engine for AR development) and Flutter, usually for UI/UX development. So far I code mostly using C# and Dart, while also have some experiences in coding projects using Python (computer vision and machine learning), Javascript (basic web development) and a little of other things. As technologies progressed, I'm open and interested to learn new things :) Currently expanding my skills on React Native to support mobile development demands and also VR development using Meta Quest 3.
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/achmadmahathirps/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/achmadmahathirps/)
