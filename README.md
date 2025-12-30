@@ -44,9 +44,37 @@ There are several technologies that I'm using for creating the applications, suc
 ## 📊 Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-274%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-276%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                92 commits          ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   24.21 % 
+🌆 Daytime                190 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   50.00 % 
+🌃 Evening                70 commits          ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.42 % 
+🌙 Night                  28 commits          ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.37 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+Python                   8 hrs 23 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀   83.78 % 
+Dart                     1 hr 35 mins        ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.98 % 
+YAML                     1 min               ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.21 % 
+CSV                      0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.03 % 
+
+🔥 Editors: 
+VS Code                  10 hrs              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+
+💻 Operating System: 
+Windows                  10 hrs              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+```
 
 **I Mostly Code in C#** 
 
@@ -61,7 +89,7 @@ HTML                     1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 29/12/2025 20:29:35 UTC
+ Last Updated on 30/12/2025 02:01:17 UTC
 <!--END_SECTION:waka-->
 
 <!--
