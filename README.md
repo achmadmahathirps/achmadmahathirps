@@ -39,7 +39,7 @@ There are several technologies that I'm using for creating the applications, suc
 <b>⚙&nbsp;&nbsp;Languages&nbsp;and&nbsp;frameworks</b>
 <br>
   
-[![My Skills](https://skillicons.dev/icons?i=cs,javascript,py,dart,flutter,postgresql,vue&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,javascript,py,dart,flutter,postgresql,mysql)](https://skillicons.dev)
  
 ## 📊 Stats
 
