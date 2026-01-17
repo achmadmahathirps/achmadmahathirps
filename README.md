@@ -34,7 +34,7 @@ There are several technologies that I'm using for creating the applications, suc
 <b>🛠️&nbsp;&nbsp;Some Tools I Use</b>
 <br/>
   
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,unity,androidstudio,blender,git,pycharm,conda,windows,mint&theme=light&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,unity,androidstudio,blender,git,pycharm,anaconda&theme=light,windows,mint&theme=light&perline=7)](https://skillicons.dev)
 
 <b>⚙&nbsp;&nbsp;Languages&nbsp;and&nbsp;frameworks</b>
 <br>
