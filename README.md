@@ -39,7 +39,9 @@ There are several technologies that I'm using for creating the applications, suc
 ## 📊 Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-422%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-415%20hrs%2039%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-38%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -71,6 +73,12 @@ VS Code                  18 hrs 37 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 Windows                  18 hrs 37 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in ShaderLab** 
 
 ```text
@@ -84,7 +92,7 @@ TypeScript               1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 27/07/2026 14:46:56 UTC
+ Last Updated on 27/07/2026 17:47:57 UTC
 <!--END_SECTION:waka-->
 
 <!--
