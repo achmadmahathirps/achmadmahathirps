@@ -61,38 +61,39 @@ There are several technologies that I'm using for creating the applications, suc
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Markdown                 3 hrs 2 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   43.64 % 
-TypeScript               2 hrs 6 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   30.12 % 
-JavaScript               1 hr 3 mins         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.23 % 
-Text                     46 mins             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.00 % 
+Markdown                 3 hrs 37 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   39.63 % 
+TypeScript               2 hrs 51 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   31.24 % 
+Text                     1 hr 35 mins        ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.34 % 
+JavaScript               1 hr 3 mins         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.64 % 
+Other                    0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.08 % 
 
 🔥 Editors: 
-Opencode Cli             6 hrs 28 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀   92.57 % 
-VS Code                  31 mins             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.43 % 
+Opencode Cli             8 hrs 23 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀   91.80 % 
+VS Code                  44 mins             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.20 % 
 
 💻 Operating System: 
-Windows                  6 hrs 59 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+Windows                  9 hrs 8 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 59 mins (100.0%)
+⏱ AI Coding Time: 9 hrs 8 mins (100.0%)
 
-✍️ 1,903 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 3,423 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 5,195,294 Input Tokens, 739,021 Output Tokens
+🔤 7,081,619 Input Tokens, 1,111,573 Output Tokens
 
-💵 $345.98 Estimated AI Cost This Week
+💵 $450.85 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 57 AI Prompts
+🧠 18 AI Sessions, 81 AI Prompts
 
-DeepSeek                 1,915 lines         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+DeepSeek                 3,642 lines         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 343 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📝 Concise Prompter — average 263 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -109,7 +110,7 @@ Jupyter Notebook         2 repos             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 22/10/2026 16:55:12 UTC
+ Last Updated on 22/10/2026 23:06:39 UTC
 <!--END_SECTION:waka-->
 
 <!--
